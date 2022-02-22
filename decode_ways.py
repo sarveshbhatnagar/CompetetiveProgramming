@@ -41,4 +41,4 @@ class Solution:
         return dfs(0)
 
 
-print(Solution().numDecodings("10"))
+print(Solution().numDecodings("12"))
